@@ -1,7 +1,6 @@
 # 🌸 Real Sakura Rain (Java Animation)
 
-![Preview](![SakuraRain](https://github.com/user-attachments/assets/3041336a-c868-4811-9372-e565409f00fa)
-)
+![Preview](![SakuraRain](https://github.com/user-attachments/assets/78bdfb58-9254-4618-9000-000963f5798f)
 
 A detailed simulation of falling Cherry Blossoms, built entirely with **Java Swing & AWT**.
 
